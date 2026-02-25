@@ -52,7 +52,7 @@ frontend:
   host: 192.168.2.167
 advanced:
   log_level: debug
-  network_key: GENERATE
+  network_key:[143, 114, 179, 188, 177, 187, 147, 51, 27, 106, 103, 207, 180, 35, 36, 41]
 EOL
 echo " "
 echo ">>>>> configuration.yaml file created <<<<<"
